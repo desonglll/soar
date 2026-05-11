@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:desonglll/soar_api.git
+[submodule "web"]
+	path = web
+	url = git@github.com:desonglll/soar_web.git
